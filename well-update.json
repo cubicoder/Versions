@@ -1,5 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/just-a-well",
+	"1.20.4": {
+		"1.0.0": "Initial version for 1.20.4"
+	},
 	"1.20.1": {
 		"1.0.0": "Initial version for 1.20.1"
 	},
@@ -16,6 +19,8 @@
 		"1.0.0": "Initial version for 1.16.5"
 	},
 	"promos": {
+		"1.20.4-latest": "1.0.0",
+		"1.20.4-recommended": "1.0.0",
 		"1.20.1-latest": "1.0.0",
 		"1.20.1-recommended": "1.0.0",
 		"1.19.4-latest": "1.0.0",
